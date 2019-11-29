@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "309044855789",
+    "firebase_url": "https://noiselevel-a2a6c.firebaseio.com",
+    "project_id": "noiselevel-a2a6c",
+    "storage_bucket": "noiselevel-a2a6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309044855789:android:67797c9eddf67c015c1de4",
+        "android_client_info": {
+          "package_name": "com.hasanfakhra.noise_detector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309044855789-lvl2to005k3lipbg1k9k8lq6qb2ah2dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEu3yo7tCU-uHKTaM-OV9apzxVR7SAuCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309044855789-lvl2to005k3lipbg1k9k8lq6qb2ah2dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
