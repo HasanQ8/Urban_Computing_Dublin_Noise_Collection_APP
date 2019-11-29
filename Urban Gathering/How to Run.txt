@@ -1,0 +1,11 @@
+RUN:
+
+1.open the command prompt and run NoiseAPI.py
+2.Ensure all appropriate libraries are installed.
+3.Run the program with python "python NoiseAPI.py"
+4.It should produce the CSV file "Dublin_noise.csv".
+5.JSON file called noise.json should also be created, that will be the historical data for the application.
+
+ALternative:
+
+Open Anacoda's Spyder and run the python code there it will give the same results.
